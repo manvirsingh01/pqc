@@ -4,6 +4,8 @@ This document contains all installation, configuration, verification, troublesho
 
 ## Install
 
+https://chatgpt.com/share/6a1e2657-0968-8321-95d2-49c8e7544be0
+
 ```bash
 sudo apt update
 sudo apt upgrade -y
